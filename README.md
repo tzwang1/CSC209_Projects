@@ -12,3 +12,5 @@ Assignment 3
 A basic shell that handles builtin commands: cd, exit
 Can also run more complex commands: eg. grep, cat, ls etc
 Handles redirection and pipes
+
+Note: For this assignment only the specifications contained in the TODO comments are my work, all other code was provided by Professor Karen Reid.
